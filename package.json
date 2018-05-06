@@ -1,0 +1,39 @@
+{
+  "name": "fincon",
+  "version": "1.0.0",
+  "description": "calculate loan x css",
+  "main": "index.ts",
+  "scripts": {
+    "build": "webpack",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacorrea/fincon.git"
+  },
+  "keywords": [
+    "css",
+    "fincon",
+    "js",
+    "typescript",
+    "ts",
+    "javascript",
+    "vue"
+  ],
+  "author": "vcorrea",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vacorrea/fincon/issues"
+  },
+  "homepage": "https://github.com/vacorrea/fincon#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "ts-loader": "^4.2.0",
+    "typescript": "^2.8.3",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.0.9",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.3"
+  }
+}
